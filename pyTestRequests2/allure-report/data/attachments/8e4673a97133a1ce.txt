@@ -1,0 +1,10 @@
+Success CREATE NEW LOCATION!
+Результат метода ПОСТresponse_json={'status': 'OK', 'place_id': '7878fb96b7cdc4a05c1d3acc7408aef6', 'scope': 'APP', 'reference': 'da8a9eb51ac171e46bdd464bb394359bda8a9eb51ac171e46bdd464bb394359b', 'id': 'da8a9eb51ac171e46bdd464bb394359b'}
+https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=7878fb96b7cdc4a05c1d3acc7408aef6
+Success GET NEW LOCATION!
+{"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontline house","phone_number":"(+91) 983 893 3937","address":"29, side layout, cohen 09","types":"shoe park,shop","website":"http:\/\/google.com","language":"French-IN"}
+Success DELETE NEW LOCATION!
+<br />
+<b>Notice</b>:  Trying to get property of non-object in <b>/var/www/maps/api/place/DeletePlace.php</b> on line <b>42</b><br />
+
+Success GET NEW LOCATION!

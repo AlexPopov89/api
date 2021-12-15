@@ -1,0 +1,43 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-G3VDLDOL",
+    "children" : [ {
+      "name" : "4736-MainThread",
+      "children" : [ {
+        "name" : "test_create_new_place",
+        "uid" : "84aff69b1742b306",
+        "parentUid" : "a9fe1ab464b9e01cc4d8efc7200ff187",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638698477642,
+          "stop" : 1638698478588,
+          "duration" : 946
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a9fe1ab464b9e01cc4d8efc7200ff187"
+    }, {
+      "name" : "4872-MainThread",
+      "children" : [ {
+        "name" : "test_create_new_place",
+        "uid" : "832f97d22a7323bb",
+        "parentUid" : "9f05d2053800aba733aac50befbaa4da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638728605222,
+          "stop" : 1638728612483,
+          "duration" : 7261
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9f05d2053800aba733aac50befbaa4da"
+    } ],
+    "uid" : "35af72e799d041aac3a4a60303234fcd"
+  } ]
+}

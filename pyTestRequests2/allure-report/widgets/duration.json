@@ -1,0 +1,11 @@
+[ {
+  "uid" : "832f97d22a7323bb",
+  "name" : "test_create_new_place",
+  "time" : {
+    "start" : 1638728605222,
+    "stop" : 1638728612483,
+    "duration" : 7261
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "tests.draft.create_new_place_test",
+    "children" : [ {
+      "name" : "test_create_new_place",
+      "uid" : "832f97d22a7323bb",
+      "parentUid" : "c8de82a1c20dc1360456efe07a4bcf6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638728605222,
+        "stop" : 1638728612483,
+        "duration" : 7261
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "tests.draft.create_new_place_test"
+  } ]
+}

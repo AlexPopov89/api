@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Dec 05 21:23:25 MSK 2021","Sun Dec 05 21:23:32 MSK 2021","7261","tests.draft","create_new_place_test","TestNewPlace","","","test_create_new_place",""
